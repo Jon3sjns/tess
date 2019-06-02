@@ -1,5 +1,4 @@
 
-clear
 j="\e[37m{===============================================}"
 c='\e[36m'
 o="{===============================================}"
@@ -48,27 +47,3 @@ echo "$c 16. install XuDoS"
 echo $j
 echo $c 17. install PortScanner
 echo $j
-echo $c 18. install SQLMAP
-echo $j
-echo $c 19. install DARKXploit
-echo $j
-echo $c 20. install metasploit framework
-echo $j
-echo "$c 21. install IPCS(hack kamera)"
-echo $j
-echo $c 22. install santet online
-echo $j
-echo $c 23. install Enskripsi base64
-echo $j
-echo $c 24. install deskripsi base64
-echo $j
-echo $c 25. install ContexPloit
-echo $j
-echo $c 26. install TH3INSPECTOR
-echo $j
-echo $c 27. menampilkan spek handphone
-echo $j
-echo $c 27. install
-echo $j
-
-
